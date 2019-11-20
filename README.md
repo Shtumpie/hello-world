@@ -1,3 +1,3 @@
 # hello-world
-short description
+short description.
 Adding some more text.
